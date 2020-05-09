@@ -13,4 +13,4 @@ Tutorialnya gampang kok..
 
 😙 cd zodiakmu
 
-😙Python zodiakmu.py
+😙Python rzodiakmu.py
